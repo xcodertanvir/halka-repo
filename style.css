@@ -1,0 +1,36 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Shizuru', cursive;
+margin: 0;
+}
+.orange{
+    color: orange;
+}
+h1{
+    font-size: 40px;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width img{
+font-size: 80%;
+}
+.half-width p{
+    font-size: 90%;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
